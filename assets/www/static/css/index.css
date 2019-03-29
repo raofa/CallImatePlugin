@@ -1,0 +1,16 @@
+.page{
+    background-image: url('../img/bg.png');
+}
+.el-input-group__prepend{
+    min-width: 1.4rem;
+    text-align: center;
+    font-size: 14px;
+}
+.el-input-group__append{
+    min-width: 1rem;
+    text-align: center;
+}
+.signPage .step2 .el-input-group__prepend{
+    min-width: 1rem;
+    text-align: center;
+}
